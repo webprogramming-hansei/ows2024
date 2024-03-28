@@ -1,1 +1,1 @@
-console.log("jeong ji ho");
+console.log("jeong jiho");
